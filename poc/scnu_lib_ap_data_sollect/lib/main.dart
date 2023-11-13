@@ -65,7 +65,7 @@ class _MyAppState extends State<MyApp> {
       TextEditingController(text: '1');
   final TextEditingController _coodinateYTxtCtl =
       TextEditingController(text: '1');
-  final TextEditingController _roundsTxtCtl = TextEditingController(text: '20');
+  final TextEditingController _roundsTxtCtl = TextEditingController(text: '100');
   final TextEditingController _intervalTxtCtl =
       TextEditingController(text: '3');
   int rounds = 0;
